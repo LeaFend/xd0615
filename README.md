@@ -1,7 +1,6 @@
 # xd0615
 Project xd0615
 
-#Step0 个人信息：丁巍 学号18010100440.
 #Step1 在Github上建立“xd0615”仓库.
 #Step2 配置Github的ssh key.
 #Step3 在git中使用git remote add origin git@github.com:LeaFend/xd0615.git指令获取Github上仓库的所有文件.
